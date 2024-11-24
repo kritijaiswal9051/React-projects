@@ -1,0 +1,11 @@
+.active {
+  color: red;
+}
+.inactive {
+  color: rgb(227, 216, 2);
+}
+.star {
+  margin: 30px;
+  text-align: center;
+  padding: 20px;
+}
